@@ -1,5 +1,7 @@
 # Gif App
 
-### Application to find gifs
+### App: https://jjborrelli92.github.io/Gif-App/
 
-### https://jjborrelli92.github.io/Gif-App/
+---
+
+### My LinkedIn: https://www.linkedin.com/in/jjborrelli/
